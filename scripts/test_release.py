@@ -17,7 +17,7 @@ CASK = '''cask "gitler" do
   sha256 arm:   "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
          intel: "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
 
-  url "https://github.com/lebedev-nikita/gitler/releases/download/v#{version}/Gitler_#{version}_macos-#{arch}.app.tar.gz"
+  url "https://github.com/gitler-app/gitler/releases/download/v#{version}/Gitler_#{version}_macos-#{arch}.app.tar.gz"
   depends_on formula: "git"
   depends_on :macos
   app "Gitler.app"

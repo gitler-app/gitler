@@ -41,7 +41,7 @@ brew reinstall --cask lebedev-nikita/tap/gitler
 ### Direct download
 
 Download the DMG or app archive from
-[GitHub Releases](https://github.com/lebedev-nikita/gitler/releases/latest).
+[GitHub Releases](https://github.com/gitler-app/gitler/releases/latest).
 Git must be installed and available on PATH. Downloads include `SHA256SUMS.txt`.
 The app uses ad-hoc signing and is not notarized.
 
